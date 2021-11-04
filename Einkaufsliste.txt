@@ -2,3 +2,4 @@ Einkaufsliste:
 - Lachs
 - Pommes
 - Irgendwas gesundes
+- Lokal etwas hinzugefügt was Ich gleich commiten werde
