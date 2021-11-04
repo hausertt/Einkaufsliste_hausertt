@@ -10,3 +10,7 @@ Einkaufsliste für eine Aufgabe OSSE
 > Wie immer eben
 
 ## Spielereien mit Markdown
+
+### Jetzt kommt das Bild:
+
+![Bild von Furtwangen](https://d3u9sm4kpb9d1j.cloudfront.net/pictures/2393411)
